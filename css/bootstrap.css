@@ -58,7 +58,7 @@ article{
 
 
 .bloque-derecha section{
-    background: blue;
+    background-image: url(../img/descarga.jpg);
     height: 250px;
     width: 100%;
 }
